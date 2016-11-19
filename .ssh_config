@@ -1,0 +1,11 @@
+# Umich GitLab
+Host gitLab
+    HostName gitlab.com
+    User git
+    IdentityFile ~/.ssh/id_rsa
+
+# CAEN Remote
+Host scc
+    HostName login.engin.umich.edu
+    User sarahcc
+    Compression yes
