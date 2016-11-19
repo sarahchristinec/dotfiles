@@ -9,3 +9,9 @@ Host scc
     HostName login.engin.umich.edu
     User sarahcc
     Compression yes
+
+# GitHub
+Host github
+    Hostname github.com
+    User sarahchristinec
+    IdentityFile ~/.ssh/id_rsa
